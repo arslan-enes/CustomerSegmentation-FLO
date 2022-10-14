@@ -13,7 +13,8 @@ FLO, wants to divide their customers into segments and create marketing strategi
 
 ### Dataset 👞👠
 
-19945 unique Customer 
+19945 unique customer - 12 feature
+
 ![image](https://user-images.githubusercontent.com/84344512/195815473-a95ee597-0ce7-4288-b5fc-acd87caa3ab4.png)
 
 ### Example Business Cases 👨‍💼
